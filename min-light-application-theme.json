@@ -1,0 +1,23 @@
+{
+  "name": "Min Light",
+
+  "tab": {
+    "background": "#FFFFFFFF",
+    "iconStyle": "default",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+
+  "tabRow": {
+    "background": "#F2F2F2FF",
+    "unfocusedBackground": "#E2E2E2FF"
+  },
+
+  "window": {
+    "applicationTheme": "light",
+    "experimental.rainbowFrame": false,
+    "frame": null,
+    "unfocusedFrame": null,
+    "useMica": false
+  }
+}
